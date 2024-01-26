@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expressionui/static/css/main.f96f07a4.css",
+    "main.js": "/expressionui/static/js/main.25c95509.js",
+    "index.html": "/expressionui/index.html",
+    "main.f96f07a4.css.map": "/expressionui/static/css/main.f96f07a4.css.map",
+    "main.25c95509.js.map": "/expressionui/static/js/main.25c95509.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.25c95509.js"
+  ]
+}
